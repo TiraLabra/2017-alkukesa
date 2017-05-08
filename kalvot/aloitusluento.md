@@ -9,7 +9,7 @@
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#tiralabra2017** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2017-kev-p4/wiki
+- Kurssisivu https://github.com/TiraLabra/2017-alkukesa/wiki
 
 # Mistä kyse?
 
@@ -28,12 +28,13 @@
 
 - Toteutuskieli ohjaajan hyväksyttävä. Ainakin Java käy.
     - Myös esim c#, Python, c sallittuja.
+    - Tule kuitenkin juttelemaan jollet kirjoita javlla.
     - Ota huomioon että vaaditaan jonkinlainen testikattavuusraportointi
 - Käytössä **Git**-versionhallinta sekä **GitHub**
 - Harjoitustyö on **yksilötyö**
-- Tuloksena **suoritettava ohjelma**
+- Tuloksena yleensä **suoritettava ohjelma**
     - Ei pelkkä kirjasto tai muu suorittamattomissa oleva läjä koodia
-- Ohjelmalla oltava **käyttöliittymä**
+- Ohjelmalla yleensä oltava **käyttöliittymä**
 
 # Kurssin sisältö
 
@@ -50,10 +51,10 @@
 
 # Kurssin kulku
 
-- **Deadlinet** lauantaisin aina kello 23:59
+- **Deadlinet** perjantaisin aina kello 23:59
     - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
         - Ekalla viikolla poikkeuksellisesti 0-1
-    - Ensimmäinen deadline nyt **Launtaina!**
+    <!--- - Ensimmäinen deadline nyt **Launtaina!** -->
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -62,8 +63,10 @@
 
 # Kurssin kulku
 
-- Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - **Torstaisin 16-19** Luokassa **B221** (yläpaja)
+- Aloitusluenolla sovitaan viikottaisten ohjausaikojen järjestämisestä
+    - Muuten yksilöohjausta voidan järjestää pyynöstä yliopistolla (Olen paikalla jokatapauksessa lähes päivittän)
+<!--- - Kurssin aikana tarjolla **ohjausta** eli pajaa
+    - **Torstaisin 16-19** Luokassa **B221** (yläpaja) -->
     - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
     - IRC ei ole virallinen tietolähde, vaikka onkin kätevä
@@ -75,6 +78,7 @@
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
     - Pisteitä tarjolla!
+    - Maksimipisteet katselmoinnista on **2**. Eli täysiin pisteisiin vaaditaan hiukan javalabraa laajempaa palautetta.
 
 # Kurssin kulku
 
@@ -96,6 +100,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2017-kev-p4/wiki
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2017-alkukesa/wiki
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
