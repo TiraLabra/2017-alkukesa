@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 15.3.2017
+% 12.5.2017
 
 # Ohjaajat
 
@@ -59,7 +59,7 @@
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
-    - **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
+    - Lisäaikaa saa **hyvällä syyllä**, **etukäteen pyytämällä**
 
 # Kurssin kulku
 
